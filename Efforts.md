@@ -2,4 +2,4 @@
 
 My efforts
 
-[Go to Growth Mindset](\README.md)
+[Go to Growth Mindset](README.md)
