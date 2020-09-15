@@ -8,10 +8,10 @@ MarkDown Learning
  Hard work, perseverance, risk taking and endurance not only
  leads to success academically ,but also in our life.*
  
- - [Challenges](/Challenges.md)
+ - [Positive Thinking](/Positive.md)
  
- - [Obstacles](/Obstacles.md)
+ - [Resilience](/Resilience.md)
  
- - [Efforts](/Efforts.md)
+ - [Continuous Learning](/Learning.md)
  
  
