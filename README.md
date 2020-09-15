@@ -1,8 +1,8 @@
-# reading-notes
+# Reading Notes
 
 MarkDown Learning
 
-# Growth Mindset
+## Growth Mindset
 
 *I feel Growth Mindset is the fundamental to any learning.
  Hard work, perseverance, risk taking and endurance not only
