@@ -4,17 +4,15 @@ Unordered list can be made by preceding one or more lines of text with - or *.
 
 SAMPLE:
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+"- Item 1"
 
+"* Item 2"
 
 OUTPUT:
 
 * Item 1
 * Item 2
-  * Item 2a
-  * Item 2b
+  
 
 # ORDERED LIST
  
@@ -29,7 +27,7 @@ OUTPUT:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 - [x] @mentions, #refs, [links](),
-**formatting**, and <del>tags</del>
+**formatting**, and <del>tags</del> 1
 supported
 - [x] list syntax required (any
 unordered or ordered list
