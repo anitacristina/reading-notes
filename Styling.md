@@ -1,3 +1,4 @@
+Below table mentions the Style and the Syntax
 
 Styling| Syntax| Keyboard Shortcut| Sample code
 ------------ | ------------- | ---------------------------- | -----------
@@ -9,4 +10,4 @@ Bold&italic	      |  *** ***		  |                   |***Markdown***
 
 
 
-
+[Go Back](README.md)
