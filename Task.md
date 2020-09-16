@@ -1,5 +1,16 @@
 # UNORDERED LIST
 
+Unordered list can be made by preceding one or more lines of text with - or *.
+
+SAMPLE:
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+
+OUTPUT:
+
 * Item 1
 * Item 2
   * Item 2a
