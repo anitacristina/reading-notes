@@ -1,12 +1,13 @@
 # UNORDERED LIST
 
-Unordered list can be made by preceding one or more lines of text with - or *.
+Unordered list can be made by preceding one or more 
+lines of text with - or *.
 
 SAMPLE:
 
-"- Item 1"
+" - Item 1 "
 
-"* Item 2"
+" * Item 2 "
 
 OUTPUT:
 
