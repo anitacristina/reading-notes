@@ -13,7 +13,7 @@
  * Item 3a
  * Item 3b
  
- # TASK LIST
+# TASK LIST
 
 - [x] this is a complete item
 - [ ] this is an incomplete item
