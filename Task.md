@@ -28,22 +28,37 @@ INPUT:
 
 '2. Bing'
     
-OUTPUT:    
+OUTPUT:  
+
 1. Google
 2. Yahoo 
 3. Bing 
    
  
-# TASK LIST
+# NESTED LIST
 
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](),
-**formatting**, and <del>tags</del> 1
-supported
-- [x] list syntax required (any
-unordered or ordered list
-supported)
+We can nest an unordered list in an ordered list, or vice versa. Indent one or more items to create a nested list.
+
+INPUT :
+
+"1. Mango"
+
+"2. Banana"
+
+"3. Apple"
+   
+   "- Gala"
+   
+   "- Red Delicious"
+
+OUTPUT:
+
+
+1. Mango
+2. Banana
+3. Apple
+   - Gala
+   - Red Delicious
 
 
 
