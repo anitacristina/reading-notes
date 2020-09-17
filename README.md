@@ -8,6 +8,6 @@ My name is **Anita Christina**, and I was a computer science Professional. From 
 ## My Learnings from DeltaV Code 102
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
-- [Learning Markdown](LEARNING_MARKDOWN.md)
+- [Learning Markdown](\LEARNING_MARKDOWN.md)
 - [MORE TO COME]...
 
