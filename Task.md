@@ -5,7 +5,9 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 INPUT:
 
 "- Task 1"
+
 "* Task 3"
+
 "+ Task 2"
 
 OUTPUT:
@@ -19,18 +21,16 @@ OUTPUT:
 # ORDERED LIST
 
 INPUT:
-'1. Sample 1'
-'2. Sample 2'
-'3. Sample 3'
-    '* Sample 3a'
-    '* Sample 3b'
+'1. Google'
+
+'3. Yahoo' 
+
+'2. Bing'
     
 OUTPUT:    
-1. Sample 1
-3. Sample 3
-   * Sample 3a
-   * Sample 3b
-2. Sample 2
+1. Google
+2. Yahoo 
+3. Bing 
    
  
 # TASK LIST
