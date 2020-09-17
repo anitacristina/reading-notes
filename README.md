@@ -22,6 +22,6 @@ MarkDown Learning
      
      -2.[How to Style the text](/Styling.md)
      
-     -3.[How to add an Image](/Image.md)
+     -3.[Horizontal Rules](/Horiz.md)
      
-     -4.[Task List](/Task.md)
+     -4.[List](/Task.md)
