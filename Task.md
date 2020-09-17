@@ -3,25 +3,27 @@
 Unordered list can be made by preceding one or more 
 lines of text with - or *.
 
-SAMPLE:
+INPUT:
 
-" - Item 1 "
+"- Task 1"
 
-" * Item 2 "
+"* Task 3"
+"* Task 2"
 
 OUTPUT:
 
-* Item 1
-* Item 2
+* Task 1
+* Task 3
+* Task 2
   
 
 # ORDERED LIST
  
-1. Item 1
-2. Item 2
-3. Item 3
- * Item 3a
- * Item 3b
+1. Sample 1
+2. Sample 2
+3. Sample 3
+   * Sample 3a
+   * Sample 3b
  
 # TASK LIST
 
