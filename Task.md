@@ -21,6 +21,7 @@ OUTPUT:
 # ORDERED LIST
 
 INPUT:
+
 '1. Google'
 
 '3. Yahoo' 
