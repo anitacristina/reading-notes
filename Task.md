@@ -1,6 +1,6 @@
 # UNORDERED LIST
 
-To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
 
 INPUT:
 
@@ -16,9 +16,9 @@ OUTPUT:
 * Task 3
 + Task 2
   
- To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
-
 # ORDERED LIST
+
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
 
 INPUT:
 
