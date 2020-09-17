@@ -20,7 +20,7 @@ MarkDown Learning
      
      -1.[What is MarkDown](/Markd.md)
      
-     -2.[How to Style the text](/Styling.md)
+     -2.[Style the text](/Styling.md)
      
      -3.[Horizontal Rules](/Horiz.md)
      
