@@ -15,8 +15,15 @@ First, I installed the **Power Tools** required for the HTML Programming in my M
 5) **Tree** - It is command in a Linux that lists the files or directories in the given directory. Also, it returns the total number of files and directories listed.
 
 6) **Ubuntu**
+
 7) **VS code**
+
 8) **Homebrew**
+
+9) **Terminal**
+
+10) **Linux**
+
 
 ## Text Editors
 
