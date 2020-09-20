@@ -1,6 +1,6 @@
 # Coder's Computer
 
-
+First, I installed the **Power Tools** required for the learning in my Mac Computer.  Below are the list of Power Tools and the versions I installed 
 
 
 
