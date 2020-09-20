@@ -3,6 +3,7 @@
 ## POWER TOOLS
 
 First, I installed the **Power Tools** required for the HTML Programming in my Mac Computer.  Below is the list of Power Tools I installed:
+
 1) **Git** - Git is a free and open sourced distributed version control system similar to Tortorise SVN.
 
 2) **Node** - Node is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/)
