@@ -9,6 +9,6 @@ My name is **Anita Christina**, and I was a computer science Professional. From 
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)
-- [Coder's Computer](Coders_Computer.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
 - [MORE TO COME]...
 
