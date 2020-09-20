@@ -30,6 +30,6 @@ This will also help me stay on course, develop humbleness, and face the challeng
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)
-- [Coder's Computer](Coders_Computer.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
 - [MORE TO COME]...
 
