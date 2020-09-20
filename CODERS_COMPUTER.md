@@ -4,7 +4,7 @@
 
 First, I installed the **Power Tools** required for the HTML Programming in my Mac Computer.  Below is the list of Power Tools I installed:
 
-1) **Git** - Git is a free and open sourced distributed version control system similar to Tortorise SVN.
+1) **Git** - [Git](https://git-scm.com/) is a free and open sourced distributed version control system similar to Tortorise SVN.
 
 2) **Node** - Node is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://v8.dev/)
 
@@ -20,7 +20,18 @@ First, I installed the **Power Tools** required for the HTML Programming in my M
 
 ## Text Editors
 
+Below table mentions the Text Editors and its Usage
 
+Text Editor| Windows | Mac OS| Advantages
+------------ | ------------- | ---------- | -----------
+Notepad++	            |	    |        |
+TextWrangler/BB Edit  |    	|        |
+VS code     |        |      |        |
+Atom  |	             |      |        |
+Brackets	 |    		  |     |        |
+Sublime Text|         |     |        |
+Vim |       |         |     |        |
+UltraEdit|            |     |        |
 
 
 
@@ -31,4 +42,4 @@ First, I installed the **Power Tools** required for the HTML Programming in my M
 - [Learning Markdown](LEARNING_MARKDOWN.md)
 - [Coder's Computer](CODERS_COMPUTER.md)
 - [MORE TO COME]...
-goog
+
