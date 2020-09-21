@@ -19,16 +19,19 @@ First, I installed the **Power Tools** required for the HTML Programming in my M
 7) **VS code** - Visual Studio Code [VSCode](https://code.visualstudio.com/docs/editor/whyvscode) is a cross-platform (Linux, Mac OS, Windows) editor that can be extended with plugins to meet our needs.
 
 
-8) **Homebrew**
+8) **Homebrew** - [Homebrew](https://brew.sh/) is an open-source software management tool that helps users to install the required software on macOS (Apple’s operating system) and Linux in an easy way. With Homebrew, I need to type the following cmd in terminal to install the brew. "brew install <software_package>"
 
-9) **Terminal**
 
-10) **Linux**
+9) **Terminal** - The Mac Terminal is a command line system that can help users to quickly take control of the operating system and make changes as desired.
+
+
+10) **Linux**- [Linux](https://www.linux.com/what-is-linux/) is an open source Operating System. Linux has a number of different versions to suit any type of user. From new users to hard-core users, we can find a “flavor” of Linux to match our needs. These versions are called distributions (or “distros”). The most popular Linux distributions are:
+LINUX MINT, MANJARO, DEBIAN, **UBUNTU**, ANTERGOS, SOLUS, FEDORA, ELEMENTARY OS & OPENSUSE.
 
 
 ## Text Editors
 
-Below table mentions the Text Editors and its Usage
+A text editor is a piece of software used for editing plain text files. Below table mentions the Text Editors and its Usage
 
 Text Editor| Windows | Mac OS| Advantages
 ------------ | ------------- | ---------- | -----------
