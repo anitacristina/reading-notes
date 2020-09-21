@@ -33,16 +33,16 @@ LINUX MINT, MANJARO, DEBIAN, **UBUNTU**, ANTERGOS, SOLUS, FEDORA, ELEMENTARY OS 
 
 A text editor is a piece of software used for editing plain text files. Below table mentions the Text Editors and its Usage
 
-Text Editor| Windows | Mac OS| Linux | Features
+**Text Editor**| **Windows** | **Mac OS**| **Linux** | **Features**
 ------------ | ------------- | ---------- | -----------
-Notepad++	            |	  YES  | NO       |NO |Syntax Highlight, Code, word & function Completion
-BB Edit  |   NO  	| YES       | NO |Code Folding, Syntax coloring, optional line and cursor position display
-VS code     |  YES      |   YES   |YES|  Syntax Highlight, themes, extensions and Code Completion       
-Atom  |	 YES    |  YES    |  YES |  Syntax Highlight, themes and extensions      
-Brackets	 | YES   		  |   YES  |   YES | Supports only HTML, CSS and JavaScript     
-Sublime Text| YES        |YES     |   YES | Syntax Highlighting, Code Completion, themes and extensions     
-Vim |     YES  |  YES       |  YES    |  Extensions, Syntax Highlight     
-UltraEdit|  YES          |  YES   |    YES |  Syntax Highlight, themes, extensions and Code Completion     
+**Notepad++**	            |	  YES  | NO       |NO |Syntax Highlight, Code, word & function Completion
+**BB Edit**  |   NO  	| YES       | NO |Code Folding, Syntax coloring, optional line and cursor position display
+**VS code**     |  YES      |   YES   |YES|  Syntax Highlight, themes, extensions and Code Completion       
+**Atom**  |	 YES    |  YES    |  YES |  Syntax Highlight, themes and extensions      
+**Brackets**	 | YES   		  |   YES  |   YES | Supports only HTML, CSS and JavaScript     
+**Sublime Text**| YES        |YES     |   YES | Syntax Highlighting, Code Completion, themes and extensions     
+**Vim** |     YES  |  YES       |  YES    |  Extensions, Syntax Highlight     
+**UltraEdit**|  YES          |  YES   |    YES |  Syntax Highlight, themes, extensions and Code Completion     
 
 Out of these Text Editor, I prefer VScode and UltraEdit.
 
