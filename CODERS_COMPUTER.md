@@ -49,7 +49,30 @@ Out of these Text Editor, I prefer VScode and UltraEdit.
 ## Linux Tutorial
 
 ### 1) The Command Line
+**Shell** A Unix Shell is both a Command interpreter and a Programming Language.
+**Bash**  Bash is the Shell or Command language interpreter, for the GNU operating system. Bash stands for **"Bourne-Again Shell"**
 
+### 2) Basic Navigation Commands
+
+**pwd** - Print Working Directory ->  where are we currently?
+**ls[path]** - List -> Perform a listing of a the given path or the current directory. Common options: -l , -h, -a
+**cd[path]** - Change Directories -> move from one directory to another dicectory
+**Absolute Path** - One beginning from the root of the file system ( eg. /users/anitacristina)
+**Relative Path** - One relative to where you currently are in the system (eg. Documents/Deltav)
+**~(tilde)** - Used in paths as a reference to the home directory (eg. ~/Documents)
+**.(dot)** - Used in paths as a reference to the current directory.
+**..(dot dot)** - Used in paths as a refernce to the current directories parent directory
+**TAB Completion** - Start typing and Press TAB. The system will auto complete the path.
+
+### 3) More About Files
+
+**file[path]** - Find out what type of a item a file or directory is
+
+**Spaces in names** - Put whole path in quotes (") or a backslash (\) in front of spaces.
+
+**Hidden files and Directories** - A name beginning with a . (dot) is considered hidden
+  
+  
 
 ## My Learnings from DeltaV Code 102
 - [Home](README.md)
