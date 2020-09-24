@@ -24,7 +24,7 @@
  
  **Step 6**:  Update the any of the **.md** inside the **HTML-Learning-Journal** . After updating the **.md** files , type the following commands in the terminal
  
-        6a) `git status` to see the changes made to the repository on the my local computer
+        6a) `git status` to see the changes made to the repository on my local computer
         6b) `git add <filename.md>  - to tell git what changes to commit. This tells git to include changes in the next snapshot
         6c) `git commit -m "Reason for change"  - is the shutter-button to take the snapshot. -m specifies the message included wiht the commit.
         6d) `git push origin master` - to synch the change in the local computer to the repo on the GitHub. This sends any new commits to GitHub
