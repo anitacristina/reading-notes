@@ -35,6 +35,7 @@
         
  
  ## My Learnings from DeltaV Code 102
+ 
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)
