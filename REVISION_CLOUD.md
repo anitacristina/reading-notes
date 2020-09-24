@@ -32,7 +32,7 @@
  **Step 7**  Finally, go the Git repositroy and see the changes are updated correctly.
  
  ## My Learnings from DeltaV Code 102
- 
+
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
 - [Learning Markdown](LEARNING_MARKDOWN.md)
