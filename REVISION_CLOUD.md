@@ -8,7 +8,7 @@
 
         Usually, one project is equal to one repository
         
- # Steps to Create and Manage Git Respository on my local computer
+ ## Steps to Create and Manage Git Respository on my local computer
  
  1) Open your GitHub repository and click the green "Code" button and copy the URL that ends with .git
            https://github.com/anitacristina/HTML-Learning-Journal.git
