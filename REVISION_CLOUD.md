@@ -31,8 +31,6 @@
         6d) `git push origin master` - to synch the change in the local computer to the repo on the GitHub. This sends any new commits to GitHub
         
   7) Finally, go the Git repositroy and see the changes are updated correctly.
-  
-        
  
  ## My Learnings from DeltaV Code 102
  
