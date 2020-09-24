@@ -7,7 +7,7 @@
 **Repository** is a collection of files that we have told Git to pay attention to. It is also called repo.
 > Usually, one project is equal to one repository
         
- ## Steps to Create and Manage Git Respository on my local computer
+# Steps to Create and Manage Git Respository on my local computer
  
   **Step 1** Open your GitHub repository and click the green "Code" button and copy the URL that ends with .git
              https://github.com/anitacristina/HTML-Learning-Journal.git
