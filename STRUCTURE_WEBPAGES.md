@@ -44,3 +44,14 @@ Here <img> tag embeds an image and **src** attribute specifies the path ,**width
 ### CHAPTER 17 -HTML5 Layout
 
 In this chapter,I learned about difference between traditional HTML Layout Versus New HTML Layout.The structure between the traditional and new HTML remains the same.But many of the div elements have been replaced by new layout element such as header,nav,article,aside,section and footer. 
+
+### CHAPTER 18 - HTML5 Layout
+## My Learnings from DeltaV Code 102
+- [Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Learning Markdown](LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Revision Cloud ACP](REVISION_CLOUD.md)
+- [Structure Webpages](STRUCTURE_WEBPAGES.md)
+- [MORE TO COME]...
+
