@@ -45,9 +45,9 @@ Here <img> tag embeds an image and **src** attribute specifies the path ,**width
 
 In this chapter,I learned about difference between traditional HTML Layout Versus New HTML Layout.The structure between the traditional and new HTML remains the same.But many of the div elements have been replaced by new layout element such as header,nav,article,aside,section and footer. 
 
-I have created my new webpage [Anita's Kitchen](https://anitacristina.github.io/HTML-Learning-Journal)
+Using the HTML5 Layout, I created my new webpage called [Anita's Kitchen](https://anitacristina.github.io/HTML-Learning-Journal)
 
-### CHAPTER 18 - HTML5 Process and Design
+### CHAPTER 18 - Process and Design
 
 This chapter allows me to understand the complete process of web design in detail. Before implementing the code, the web design can be achieved using the wireframe. A wireframe is a simple sketch of the critical information that needs to go on each site page. The wireframe is like a blueprint for a house. The wireframe should not include the color scheme, font choices, backgrounds, or images for the website.  We can also differentiate the information on the page using size, color, and style to get the website's data quickly. 
 
