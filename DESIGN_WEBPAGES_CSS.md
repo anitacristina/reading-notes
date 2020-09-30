@@ -12,7 +12,8 @@ Below are the three ways of inserting the information in the style sheet
 
 Types of CSS| Explanation | Example
 -------------|------------|-----------
-External CSS       |         |
+External CSS       | External style sheet are defined within the <link> element inside the head section
+                     It should use three attributes (href,type and rel).This method is preferred if all the HTML pages|
 Internal CSS       |        |
 Embedded/Inline CSS|        |
 
