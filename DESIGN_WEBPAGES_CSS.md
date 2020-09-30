@@ -9,9 +9,8 @@ In this page I discuss about Chapter 10 and 11 from the book “HTML & CSS” by
 
 Types of CSS| Explanation | Example
 -------------|------------|-----------
-EXternal CSS| |
-
-Internal CSS| |
+External CSS|         |
+Internal CSS|        |
 
 
 
