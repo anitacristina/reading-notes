@@ -1,6 +1,7 @@
 # Design Webpages with CSS
 
 This page reflects my understanding of Chapter 10 and 11 from the book “HTML & CSS” by Duckett
+
 CSS stands for **C**ascading **S**tyle **S**heets.It is the language that helps you to style an HTML document
 
 
