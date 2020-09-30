@@ -11,7 +11,7 @@ Types of CSS| Explanation | Example
 -------------|------------|-----------
 EXternal CSS| |
 
-Internal CSS||
+Internal CSS| |
 
 
 
