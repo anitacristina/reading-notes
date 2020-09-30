@@ -1,15 +1,17 @@
 # Design Webpages with CSS
 
-
-
-
-## HTML and CSS,Chapter 10- CSS Introduction
-
+In this page I discuss about Chapter 10 and 11 from the book “HTML & CSS” by Duckett
 
 
 
 
-## HTML and CSS,Chapter 11- Color
+## CHAPTER 10- INTRODUCING CSS
+
+
+
+
+
+## CHAPTER 11- COLOR
 
 
 ## My Learnings from DeltaV Code 102
