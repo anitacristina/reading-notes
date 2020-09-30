@@ -1,17 +1,19 @@
 # Design Webpages with CSS
 
-In this page I discuss about Chapter 10 and 11 from the book “HTML & CSS” by Duckett
-
+This page reflects my understanding of Chapter 10 and 11 from the book “HTML & CSS” by Duckett
+CSS-Cascading Style Sheet.It is the language that helps you to style an HTML document
 
 
 
 ## CHAPTER 10- INTRODUCING CSS
 
+Below are the three ways of inserting the information in the style sheet
+
 Types of CSS| Explanation | Example
 -------------|------------|-----------
-External CSS|         |
-Internal CSS|        |
-
+External CSS       |         |
+Internal CSS       |        |
+Embedded/Inline CSS|        |
 
 
 
