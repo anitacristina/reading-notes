@@ -14,6 +14,15 @@ In this page I discuss about Chapter 10 and 11 from the book “HTML & CSS” by
 ## CHAPTER 11- COLOR
 
 
+
+
+
+
+
+
+
+
+
 ## My Learnings from DeltaV Code 102
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
