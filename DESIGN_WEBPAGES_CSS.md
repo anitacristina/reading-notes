@@ -33,18 +33,21 @@ CSS selectors are case sensitive and they are used to stye the HTML elements. Th
   
 **ADJACENT SIBLING SELECTOR** ``h1+p {}`` Targets the  first <p> element after any <h1> element, but not any other <p> element. This is specified by + symbol
   
-**General SIBLING SELECTOR** ``h1~p {}``Targets all the <p> elements that are sibling of an <h1> element. This is specified by ~ symbol.
+**GENERAL SIBLING SELECTOR** ``h1~p {}``Targets all the <p> elements that are sibling of an <h1> element. This is specified by ~ symbol.
   
-  Note: If the two selectors are identical the later of the two will take the precedence or priority.
+   **Note**: If the two selectors are identical, the latter will take precedence or priority.
 
 ## CHAPTER 11- COLOR
 
+The color gives life to the HTML pages. The color property allows you to specify the color of the text inside an element. There are three ways to set the color in CSS for both background and foreground. 1) RGB Values, 2) Hex Code & 3) Color Names
 
+**RGB VALUES** - RBG stands for Red, Blue and Green. The values for red, blue and green are expressed as numbers between 0 and 255. ``rgb(102, 205, 170)``
 
+**HEX CODE** - Hex values represent values for red, green and blue in hexadecimal code. The hexa decimal value for 102 -> 66, 205 -> cd and 170 -> aa. ``#66cdaa``
 
+**COLOR NAMES** - Colors are represented by the predefined names.There are 147 predefined color names that are recogined by browsers. ``Red``
 
-
-
+**HSL & HSLA** - The HSL and HSLA color property has been introduced in CSS3 as an **alternate way to specify colors.** The HSLA stands for HUE, SATURATION , LIGHTNESS and ALPHA. The value of the property starts with the letters hsl or hsla followed by individual values inside parentheses.  ``{background-color: hsla (0, 100%, 100%, 0.5);}``
 
 
 
