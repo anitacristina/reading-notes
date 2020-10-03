@@ -21,7 +21,9 @@ Below are the three ways of inserting the information in the style sheet
 CSS selectors are case sensitive and they are used to stye the HTML elements. There are many different types of CSS selectors, but below are one that was described in Chapter 10
 
 **UNIVERSAL SELECTOR** - `*{}` Targets all the elements of the HTML page.
+
 **TYPE SELECTOR** - ` h1, h2, h3 { }` Targets all the elements of the given type within a HTML page.
+
 **CLASS SELCTOR** - ``.anita {}`` Targets the elements based on the contents of their class attribute. `p.alpha { }` - Targets only <p> elements whose class attribute has a value of note. Class selector is specified by .(period) symbol.
   
 **ID SELECTOR** - ``#anita { } `` Targets  the elements whose id attribute has a value of anita. ID selector is specified by # symbol.
