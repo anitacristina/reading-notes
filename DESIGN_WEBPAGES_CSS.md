@@ -22,9 +22,9 @@ CSS selectors are case sensitive and they are used to stye the HTML elements. Th
 
 **UNIVERSAL SELECTOR** - `*{}` Targets all the elements of the HTML page.
 
-**TYPE SELECTOR** - ` h1, h2, h3 { }` Targets all the elements of the given type within a HTML page.
+**TYPE SELECTOR** - ``` h1, h2, h3 { }``` Targets all the elements of the given type within a HTML page.
 
-**CLASS SELCTOR** - ``.anita {}`` Targets the elements based on the contents of their class attribute. `p.alpha { }` - Targets only <p> elements whose class attribute has a value of note. Class selector is specified by .(period) symbol.
+**CLASS SELCTOR** - ```.anita {}``` Targets the elements based on the contents of their class attribute. `p.alpha { }` - Targets only <p> elements whose class attribute has a value of note. Class selector is specified by .(period) symbol.
   
 **ID SELECTOR** - ``#anita { } `` Targets  the elements whose id attribute has a value of anita. ID selector is specified by # symbol.
 **CHILD SELECTOR**  `li>a {}` Targets any **a** elements that are children of an <li> element. It is specified by > symbol.
