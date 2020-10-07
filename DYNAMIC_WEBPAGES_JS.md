@@ -5,7 +5,7 @@
 
 **JavaScript** is a scripting language to update and change both HTML and CSS. JavaScript can calculate, manipulate, and validate data on HTML pages. In Web development, Javascript can be used for changing the HTML content, HTML attribute values and HTML styles (CSS). Also, JS can be used for Hiding and Showing the  HTML elements.
 
-In HTML, JavaScript code is inserted between ```<script> and </script>``` tags.  JavaScripts are placed in the ```<body>```, or in the ```<head>``` section of an HTML page, or both. JavaScript runs where it is found in the HTML. The <script> in the HTML pages tells the browser to load the Javascript file which is similar to the <link> element used to load a CSS file.  JavaScript can "display" data in 4 different ways: **innerHTML**, **document.write()**, **window.alert()** and **console.log()**
+In HTML, JavaScript code is inserted between ```<script> and </script>``` tags.  JavaScripts are placed in the ```<body>```, or in the ```<head>``` section of an HTML page, or both. JavaScript runs where it is found in the HTML. The ```<script>``` in the HTML pages tells the browser to load the Javascript file which is similar to the <link> element used to load a CSS file.  JavaScript can "display" data in 4 different ways: **innerHTML**, **document.write()**, **window.alert()** and **console.log()**
 
 
 ## CHAPTER 2 - Basic Javascript Instructions (Pages 53-68 from Duckett) 
