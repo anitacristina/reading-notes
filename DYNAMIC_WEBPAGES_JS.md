@@ -10,11 +10,9 @@ In HTML, JavaScript code is inserted between ```<script> and </script>``` tags. 
 
 ## CHAPTER 2 - Basic Javascript Instructions (Pages 53-68 from Duckett) 
 
-**Statement** is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as statement. Statements should end with semicolon ```;```. **Comments** inside the Javascript are important because this helps me to understand tne read the code easier.  Two forward slash ```//```
-is used for **single-line** comment and ```/*   */``` is used for **multi-line** comment.
+** Statement** is a series of instructions that a computer can follow one-by-one. Each instruction or step is known as a Statement. Statements should end with semicolon ```;```. **Comments** inside the Javascript are important because it helps to understand and read the code easier.  Two forward-slash ```//``` is used for **single-line** comment and ```/*   */``` is used for **multi-line** comment.
 
-JavaScript **Variables** are containers for storing data values. Variables can be declared using the keyword called ```var```. We can also assign a value to the variable ```var quantity = 3;```. JavaScript **variables** can hold data types such as  Numeric, Strings and Boolean. Once the value is assigned to the variable, we can change the value of the variable in the same script.
-
+JavaScript **Variables** are containers for storing data values. Variables can be declared using the keyword called ```var```. We can also assign a value to the variable ```var quantity = 3;```. JavaScript **variables** can hold data types such as  Numeric, Strings, and Boolean. Once the value is assigned to the variable, we can change the variable's value in the same script.
 
 
 
