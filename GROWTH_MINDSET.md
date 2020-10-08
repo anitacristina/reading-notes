@@ -34,5 +34,6 @@ This will also help me stay on course, develop humbleness, and face the challeng
 - [Structure Webpages](STRUCTURE_WEBPAGES.md)
 - [Design Webpages with CSS](DESIGN_WEBPAGES_CSS.md)
 - [Dynamic Webpages with JS](DYNAMIC_WEBPAGES_JS.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHI_LOGIC.md)
 - [MORE TO COME]...
 
