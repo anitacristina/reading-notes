@@ -62,4 +62,5 @@ The color gives life to the HTML pages. The color property allows you to specify
 - [Structure Webpages](STRUCTURE_WEBPAGES.md)
 - [Design Webpages with CSS](DESIGN_WEBPAGES_CSS.md)
 - [Dynamic Webpages with JS](DYNAMIC_WEBPAGES_JS.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHI_LOGIC.md)
 - [MORE TO COME]...
