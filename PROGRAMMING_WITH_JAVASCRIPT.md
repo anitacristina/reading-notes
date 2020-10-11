@@ -1,3 +1,4 @@
+# Programming wiht JavaScript
 Duckett: JavaScript & jQuery, Introduction and Chapter 1a, pages 1-24
 JavaScript can be used to select/access HTML elements, attributes, and content, such as text. JavaScript can then be used to add and modify the elements, attributes, and content. JavaScript can be used to respond to user events such as page loads, clicks, form submissions, mouse movements, or time intervals. JavaScript programming rules are similar to other traditional programming languages.
 
