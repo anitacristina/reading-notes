@@ -1,5 +1,7 @@
 # Programming wiht JavaScript
-Duckett: JavaScript & jQuery, Introduction and Chapter 1a, pages 1-24
+
+## Introduction and Chapter 1a, pages 1-24
+
 JavaScript can be used to select/access HTML elements, attributes, and content, such as text. JavaScript can then be used to add and modify the elements, attributes, and content. JavaScript can be used to respond to user events such as page loads, clicks, form submissions, mouse movements, or time intervals. JavaScript programming rules are similar to other traditional programming languages.
 
 Before coding, programmers can develop a flowchart that define the goal of a program then sketch out the individual tasks needed to solve a problem in the form of a flowchart. Each task can be broken down into a sequence of steps which can then be translated into code. Coding requires an understanding of vocabulary and syntax. The programmer must specify every detail of what the program is expected to do. When something goes wrong the programmer will debug their code and make corrections.
@@ -46,3 +48,16 @@ var width = 3;
 var height = 2;
 var depth = 4;
 var volume = calculateVolume(width, height, depth);
+
+## My Learnings from DeltaV Code 102
+- [Home](README.md)
+- [Growth Mindset](GROWTH_MINDSET.md)
+- [Learning Markdown](LEARNING_MARKDOWN.md)
+- [Coder's Computer](CODERS_COMPUTER.md)
+- [Revision Cloud ACP](REVISION_CLOUD.md)
+- [Structure Webpages](STRUCTURE_WEBPAGES.md)
+- [Design Webpages with CSS](DESIGN_WEBPAGES_CSS.md)
+- [Dynamic Webpages with JS](DYNAMIC_WEBPAGES_JS.md)
+- [Computer Architecture and Logic](COMPUTER_ARCHI_LOGIC.md)
+- [Programming with JS](PROGRAMMING_WITH_JAVASCRIPT.md)
+- [MORE TO COME]...
