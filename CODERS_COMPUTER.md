@@ -93,5 +93,6 @@ Out of these Text Editor, I prefer VScode and UltraEdit.
 - [Design Webpages with CSS](DESIGN_WEBPAGES_CSS.md)
 - [Dynamic Webpages with JS](DYNAMIC_WEBPAGES_JS.md)
 - [Computer Architecture and Logic](COMPUTER_ARCHI_LOGIC.md)
+- [Programming with JS](PROGRAMMING_WITH_JAVASCRIPT.md)
 - [MORE TO COME]...
 
