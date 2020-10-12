@@ -7,8 +7,13 @@ A Script is a series of instructions that a computer can follow to achieve a goa
 ## Chapter 2, pages 74-79
 An expression is any valid unit of code that resolves to a value. There are two types of expressions. 1) Expressions that assign a value to a variable, 2) Expressions that use two or more values to return a single value. Expressions rely on things called **Operators**. JavaScript contains mathematical operators such as ADDITION (+), SUBTRACTION (-), DIVISION (/), MULTIPLICATION (*), INCREMENT (++), DECREMENT (--), and MODULUS (%). 
 
+## Chapter 3:  Functions: 88 - 94
+Every programmer needs to know fucntions, methods and objects to organize their code. A **function** in JavaScript is similar to a __procedure__—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is a relationship between the input and the output. For example, if you want to add two numbers in multiple places, the function (reuse) can be used instead of repeating the same statement in various places.
 
-
+```function add (a,b) ``` 
+```{```
+  ```return a + b ;```
+```}```
 
 ## My Learnings from DeltaV Code 102
 - [Home](README.md)
