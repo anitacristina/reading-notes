@@ -34,4 +34,5 @@ JavaScript **Variables** are containers for storing data values. Variables can b
 - [Dynamic Webpages with JS](DYNAMIC_WEBPAGES_JS.md)
 - [Computer Architecture and Logic](COMPUTER_ARCHI_LOGIC.md)
 - [Programming with JS](PROGRAMMING_WITH_JAVASCRIPT.md)
+- [Operators and Loops](OPERATORS_LOOPS.md)
 - [MORE TO COME]...
