@@ -3,7 +3,7 @@
 
 
 Examples: 
--[for loop]
+-[for loop](https://repl.it/@anitacristina/for-loop#script.js)
 -[while loop]
 -[do while loop]
 
