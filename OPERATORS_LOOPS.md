@@ -3,9 +3,9 @@
 
 
 Examples: 
--[for loop](https://repl.it/@anitacristina/for-loop#script.js)
--[while loop](https://repl.it/@anitacristina/while-loop#script.js)
--[do while loop]
+- [for loop](https://repl.it/@anitacristina/for-loop#script.js)
+- [while loop](https://repl.it/@anitacristina/while-loop#script.js)
+- [do while loop]
 
 ## My Learnings from DeltaV Code 102
 - [Home](README.md)
