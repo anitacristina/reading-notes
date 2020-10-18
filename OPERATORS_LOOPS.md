@@ -1,6 +1,8 @@
 # OPERATORS AND LOOPS
+## COMPARISON and LOGICAL OPERATORS
+### CHAPTER 4 - Pages 150-151,156 and 157
 
-
+Below table lists the comparisaon operators and examples
 
 Operators| Description| Examples           
 ------------ | ------------- | ---------------------------- 
@@ -12,6 +14,8 @@ Greater than (>) |Returns true if the left operand is greater than the right ope
 Greater than or equal (>=)	|Returns true if the left operand is greater than or equal to the right operand|var2 >= var1; var1 >= 3
 Less than (<)	|Returns true if the left operand is less than the right operand |var1 < var2; "2" < 12
 Less than or equal (<=)	|Returns true if the left operand is less than or equal to the right operand|var1 <= var2; var2 <= 5
+
+### CHAPTER 4 -P ages 170-173 and 176
 
 Examples: 
 - [for loop](https://repl.it/@anitacristina/for-loop#script.js)
