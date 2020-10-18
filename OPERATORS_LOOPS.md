@@ -2,7 +2,7 @@
 
 Operators| Description| Examples
 ------------ | ------------- | ---------------------------- 
-Equal (==)|Returns true if the operands are equal|var1 == 3;var1 == "3" 
+Equal (==)|Returns true if the operands are equal|var1 == 3;var1 == "3"       
 Not equal (!=)|Returns true if the operands are not equal|var1 != 3;var2 != "3"
 Strict equal (===)|	Returns true if the operands are equal and of the same type|var === 3
 Strict not equal (!==)|Returns true if the operands are of the same type but not equal, or are of different type|var1 !== "3;3 !== '3'
