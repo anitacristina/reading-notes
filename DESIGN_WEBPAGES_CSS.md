@@ -64,4 +64,5 @@ The color gives life to the HTML pages. The color property allows you to specify
 - [Dynamic Webpages with JS](DYNAMIC_WEBPAGES_JS.md)
 - [Computer Architecture and Logic](COMPUTER_ARCHI_LOGIC.md)
 - [Programming with JS](PROGRAMMING_WITH_JAVASCRIPT.md)
+- [Operators and Loops](OPERATORS_LOOPS.md)
 - [MORE TO COME]...
