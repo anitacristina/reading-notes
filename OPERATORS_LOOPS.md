@@ -1,5 +1,7 @@
 # OPERATORS AND LOOPS
 
+
+
 Operators| Description| Examples           
 ------------ | ------------- | ---------------------------- 
 Equal (==)|Returns true if the operands are equal|var1 == 3; var1 == "3"       
