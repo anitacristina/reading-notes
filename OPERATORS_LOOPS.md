@@ -20,8 +20,7 @@ Less than or equal (<=)	|Returns true if the left operand is less than or equal 
 Examples: 
 - [for loop](https://repl.it/@anitacristina/for-loop#script.js)
 - [while loop](https://repl.it/@anitacristina/while-loop#script.js)
-- [do while loop]
-
+- [do while loop](https://repl.it/@anitacristina/do-while-loop#script.js)
 ## My Learnings from DeltaV Code 102
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
