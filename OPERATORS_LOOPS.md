@@ -9,7 +9,7 @@ Operator | Description | Example
 ---------|-------------|-----------
 &&       |   AND       |  (x>5 && y<10) is true
 !        |   NOT       |  !(x==y) is true
-`||` | OR|
+`||` | OR| (x==5 `||` y==5) is true
  
 
 
