@@ -2,6 +2,17 @@
 ## COMPARISON and LOGICAL OPERATORS
 ### CHAPTER 4 - Pages 150-151,156 and 157
 
+### Logical Operators
+The logic operators are used to determine the logic between variables or values.
+
+Operator | Description | Example
+---------|-------------|-----------
+&&       |   AND       |  (x>5 && y<10) is true
+!        |   NOT       |  !(x==y) is true
+`||` | OR|
+ 
+
+
 Below table lists the comparisaon operators and examples
 
 Operators| Description| Examples           
@@ -16,8 +27,36 @@ Less than (<)	|Returns true if the left operand is less than the right operand |
 Less than or equal (<=)	|Returns true if the left operand is less than or equal to the right operand|var1 <= var2; var2 <= 5
 
 ### CHAPTER 4 -P ages 170-173 and 176
+If we want to run a set of code several times, then the loop concept comes in handy. The different kinds of Loops are: For, while, and do-while.
 
-Examples: 
+### For Loop
+For Loop - This loops through a block of code several times. 
+```Syntax:```
+```for ( initialization; condition evaluation; increment)```
+```{```
+```// code block```
+```}```
+
+### While Loop
+As long as the condition is true the ```while``` loop loops through a block of code.
+
+```Syntax:```
+```while (condition)```
+```{```
+```// code block```
+```}```
+
+### Do-While
+The do-while is a variant of the while loop. This loop will execute the code once before checking the condition. Once the condition becomes true, it will run the code until the condition fails.
+
+```Syntax:```
+```do```
+```{```
+``` // code block```
+```}```
+```while (i<10);```
+
+## Below is sample code for execution.  
 - [for loop](https://repl.it/@anitacristina/for-loop#script.js)
 - [while loop](https://repl.it/@anitacristina/while-loop#script.js)
 - [do while loop](https://repl.it/@anitacristina/do-while-loop#script.js)
