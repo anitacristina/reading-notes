@@ -37,6 +37,8 @@ For Loop - This loops through a block of code several times.
 ```// code block```
 ```}```
 
+- [for loop](https://repl.it/@anitacristina/for-loop#script.js)
+
 ### While Loop
 As long as the condition is true the ```while``` loop loops through a block of code.
 
@@ -45,6 +47,8 @@ As long as the condition is true the ```while``` loop loops through a block of c
 ```{```
 ```// code block```
 ```}```
+
+- [while loop](https://repl.it/@anitacristina/while-loop#script.js)
 
 ### Do-While
 The do-while is a variant of the while loop. This loop will execute the code once before checking the condition. Once the condition becomes true, it will run the code until the condition fails.
@@ -55,11 +59,8 @@ The do-while is a variant of the while loop. This loop will execute the code onc
 ``` // code block```
 ```}```
 ```while (i<10);```
-
-## Below is sample code for execution.  
-- [for loop](https://repl.it/@anitacristina/for-loop#script.js)
-- [while loop](https://repl.it/@anitacristina/while-loop#script.js)
 - [do while loop](https://repl.it/@anitacristina/do-while-loop#script.js)
+
 ## My Learnings from DeltaV Code 102
 - [Home](README.md)
 - [Growth Mindset](GROWTH_MINDSET.md)
